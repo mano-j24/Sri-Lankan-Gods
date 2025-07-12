@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+h3 {
+    color: navy;
+}
+
+p {
+    color: darkgreen;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 8px;
+    width: 320px;
+    height: auto;
+}
